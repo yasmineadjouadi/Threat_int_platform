@@ -1,0 +1,10 @@
+{
+  "44d88612fea8a8f36de82e1278abb02f": {
+    "type": "Trojan",
+    "score": 85
+  },
+  "5d41402abc4b2a76b9719d911017c592": {
+    "type": "Ransomware",
+    "score": 95
+  }
+}
